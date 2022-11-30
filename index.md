@@ -1,21 +1,51 @@
 ---
 layout: default
-title: home
+title: Materials Archiveとは
 nav_order: 1
 ---
 
-# hello world !!!
-FabLabSENDAI-FLATのドキュメントテンプレートです。
+### Materials Archiveとは
+<br>
+Materials Archiveは、FabLab SENDAI - FLATが作成した、デジタル工作マシン(※1)による様々な素材の加工結果とその情報を集約したウェブページです。<br>
+<br>
+デジタル工作マシンを使用するためには、パソコンでデータを作成することだけでなく、マシンと材料の性質や、それらの相性なども把握しておく必要があります。そこでMaterials Archiveでは、作品制作等にご活用いただけるよう、幅広い素材とその加工結果をご紹介しています。(※2)<br>
+<br>
+尚、掲載している素材の加工結果はあくまで参考例です。製造メーカーや保管方法、加工状況等により結果が異なる場合がありますのでご注意ください。
 
-## LINK
-This is our [web page's link](http://fablabsendai-flat.com/)
+<br><br>
 
+________________________
 
-## image
-<img src="images/コメント 2020-05-26 225341.jpg" alt="hi" class="inline"/>
+<br>
+(※1) デジタル工作マシンとは、パソコンで作成したデータを元に、様々な素材を加工するマシンのことを言います。（例：レーザーカッター、UVプリンタ、3Dプリンタ、カッティングプロッタ等）<br>
+<br>
+(※2) 2022年10月31日時点では、レーザーカッターとUVプリンタの加工結果をご紹介しています。今後他のマシンでの加工結果を追加する予定です。<br>
+<br>
 
-## YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LR1SmL5JmHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+________________________
+<br>
+<br>
 
-## SoundCloud
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/595997727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fablab-sendai" title="FabLab SENDAI" target="_blank" style="color: #cccccc; text-decoration: none;">FabLab SENDAI</a> · <a href="https://soundcloud.com/fablab-sendai/3jiku-ondo" title="三軸音頭(DEMO)" target="_blank" style="color: #cccccc; text-decoration: none;">三軸音頭(DEMO)</a></div>
+##### 著作権
+
+造形ファイルに掲載されたコンテンツ（文章、写真、動画、図版、データなど）の著作権は、FabLab SENDAI - FLATに帰属します。これらの無断利用、無断転載はお断りします。
+
+<br>
+
+##### 免責事項・注意事項
+本ページに掲載された情報は、随時更新を行いますが、閲覧された時点で古くなっていたり誤っている場合があります。また、これらの情報は予告なしに修正・削除する場合があります。<br>
+尚、本ページに掲載された情報の利用によって生じた損害については、一切の保証・賠償は行いません。ご利用に当たっては、ご自身の責任で行っていただきますようお願いいたします。
+
+<br>
+
+##### 助成
+
+公益財団法人 [仙台市市民文化事業団](https://ssbj.jp/)<br>
+（2022年度 文化芸術の創造・発信・普及助成事業）
+
+<br>
+
+##### お問い合わせ
+
+**[FabLab SENDAI - FLAT](https://fablabsendai-flat.com)**<br>
+info@flatjp.com
