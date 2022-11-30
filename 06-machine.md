@@ -2,6 +2,7 @@
 layout: default
 title: デジタル工作マシンとは
 nav_order: 7
+has_children: true
 ---
 
 ### デジタル工作マシンとは

@@ -2,6 +2,7 @@
 layout: default
 title: 天然素材
 nav_order: 5
+has_children: true
 ---
 
 ### 加工例：天然素材

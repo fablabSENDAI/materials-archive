@@ -2,6 +2,7 @@
 layout: default
 title: 紙
 nav_order: 4
+has_children: true
 ---
 
 ### 加工例：紙

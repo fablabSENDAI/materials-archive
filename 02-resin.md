@@ -2,6 +2,7 @@
 layout: default
 title: 樹脂
 nav_order: 3
+has_children: true
 ---
 
 ### 加工例：樹脂

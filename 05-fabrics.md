@@ -2,6 +2,7 @@
 layout: default
 title: 布
 nav_order: 6
+has_children: true
 ---
 
 ### 加工例：布

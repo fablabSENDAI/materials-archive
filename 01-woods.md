@@ -2,6 +2,7 @@
 layout: default
 title: 木材
 nav_order: 2
+has_children: true
 ---
 
 ### 加工例：木材
