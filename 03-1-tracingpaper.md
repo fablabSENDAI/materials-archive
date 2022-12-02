@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トレーシングペーパー｜紙
+title: トレーシングペーパー
 parent: 紙
 nav_order: 1
 ---
@@ -19,9 +19,15 @@ UVプリンターのインクはよく定着しますが、インクの縮みに
 
 <br><br>
 
+#### FabLab SENDAI - FLATでの加工事例（紙全般）
 
+[**レーザーカッター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=paperlc)
 
-##### 加工時の注意事項
+[**UVプリンター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=paperuv)
+
+<br><br>
+
+#### 加工時の注意事項
 
 **レーザーカッター**
 <br>
@@ -34,7 +40,7 @@ UVプリンターのインクはよく定着しますが、インクの縮みに
 
 <br><br>
 
-##### サンプル情報
+#### サンプル情報
 
 * **素材サイズ**<br>
 横105mm × 縦148.5mm × 厚さ0.04mm

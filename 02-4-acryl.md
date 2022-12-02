@@ -1,6 +1,6 @@
 ---
 layout: default
-title: アクリル｜樹脂
+title: アクリル
 parent: 樹脂
 nav_order: 4
 ---
@@ -19,9 +19,15 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
+#### FabLab SENDAI - FLATでの加工事例
 
+[**レーザーカッター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=acryllc)
 
-##### 加工時の注意事項
+[**UVプリンター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=acryluv)
+
+<br><br>
+
+#### 加工時の注意事項
 
 **レーザーカッター**
 <br>
@@ -33,7 +39,7 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
-##### サンプル情報
+#### サンプル情報
 
 * **素材サイズ**<br>
 横105mm × 縦148.5mm × 厚さ3mm

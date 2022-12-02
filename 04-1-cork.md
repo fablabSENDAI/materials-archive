@@ -1,6 +1,6 @@
 ---
 layout: default
-title: コルク｜天然素材
+title: コルク
 parent: 天然素材
 nav_order: 1
 ---
@@ -19,9 +19,15 @@ UVプリンターのインクは染み込んで定着します。<br>
 
 <br><br>
 
+#### FabLab SENDAI - FLATでの加工事例
 
+[**レーザーカッター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corklc)
 
-##### 加工時の注意事項
+[**UVプリンター加工事例**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corkuv)
+
+<br><br>
+
+#### 加工時の注意事項
 
 **レーザーカッター**
 <br>
@@ -34,7 +40,7 @@ UVプリンターのインクは染み込んで定着します。<br>
 
 <br><br>
 
-##### サンプル情報
+#### サンプル情報
 
 * **素材サイズ**<br>
 横105mm × 縦148.5mm × 厚さ1.8mm

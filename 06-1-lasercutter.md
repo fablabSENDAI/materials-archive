@@ -7,6 +7,11 @@ nav_order: 1
 
 ### レーザーカッターとは
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T29s0H0vzzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 レーザーカッター（レーザー加工機）は、レーザーの熱で素材を加工するマシンです。木材、アクリル板、革、紙などをカットできるほか、それらの表面に彫刻加工を施すことができます。（切り抜き可能な厚さや、彫刻の深さは、使用するマシンや機種、素材により異なります。）<br>
 <br>
 
@@ -35,28 +40,25 @@ nav_order: 1
 * **臭素が入った「難燃性」の素材**
 
 <br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T29s0H0vzzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 
 ----------
 
 <br><br>
 
-##### レーザーカッターでの加工事例
+#### レーザーカッターでの加工事例
 FabLab SENDAI - FLAT レーザーカッター加工事例<br>
 [https://www.flickr.com/photos/flat-sendai/albums/72157649768153717](https://www.flickr.com/photos/flat-sendai/albums/72157649768153717)
 
 <br><br>
 
-##### 加工に必要なデータ形式例
+#### 加工に必要なデータ形式例
 
 .ai、.dxf、.pdf、.svg、.jpgなど<br>
 
 <br><br>
 
-##### データ作成に使用するソフトウェアの例
+#### データ作成に使用するソフトウェアの例
 
 
 **2Dデータ**
