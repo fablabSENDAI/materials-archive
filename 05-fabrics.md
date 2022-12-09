@@ -5,22 +5,22 @@ nav_order: 6
 has_children: true
 ---
 
-### 加工例：布
+### 加工例：布 / Fabrics
 <br>
 
-* [ナイロン](05-1-nylon.md)
+* [ナイロン（100%）布 / Nylon Fabric](05-1-nylon.md)
 
-* [フェルト（ウール60%, レーヨン40%）](05-2-felt-w.md)
+* [フェルト（ウール60%, レーヨン40%）/ Felt (60%Wool, 40%Rayon)](05-2-felt-w.md)
 
-* [フェルト（ポリエステル100%）](05-3-felt-p.md)
+* [フェルト（ポリエステル100%）/ Felt (100%Polyester)](05-3-felt-p.md)
 
-* [ポリエステル（100%）布](05-4-polyester.md)
+* [ポリエステル（100%）布 / Polyester Fabric](05-4-polyester.md)
 
-* [綿（100%）布](05-5-cotton.md)
+* [綿（100%）布 / Cotton](05-5-cotton.md)
 
-* [ターポリン（塩化ビニル等）](05-6-tarpaulin.md)
+* [ターポリン（塩化ビニル等）/ Tarpaulin](05-6-tarpaulin.md)
 
-* [不織布（PP）](05-7-pp.md)
+* [不織布（PP）/ Non-woven Fabric](05-7-pp.md)
 
 <br>
 

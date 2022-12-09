@@ -5,18 +5,18 @@ nav_order: 2
 has_children: true
 ---
 
-### 加工例：木材
+### 加工例：木材 / Woods
 <br>
 
-* [MDF（中密度繊維板）](01-1-mdf.md)
+* [MDF（中密度繊維板）/ Medium-density fibreboard](01-1-mdf.md)
 
-* [シナ合板](01-2-shina.md)
+* [シナ合板 / Basswood Plywood](01-2-shina.md)
 
-* [ひのき](01-3-hinoki.md)
+* [ひのき / Japanese Cypress](01-3-hinoki.md)
 
-* [ラワン合板](01-4-lauan.md)
+* [ラワン合板 / Lauan Plywood](01-4-lauan.md)
 
-* [竹](01-5-bamboo.md)
+* [竹 / Bamboo](01-5-bamboo.md)
 
 
 <br>

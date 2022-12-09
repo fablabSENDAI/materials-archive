@@ -5,20 +5,20 @@ nav_order: 4
 has_children: true
 ---
 
-### 加工例：紙
+### 加工例：紙 / Paper
 <br>
 
-* [トレーシングペーパー](03-1-tracingpaper.md)
+* [トレーシングペーパー / Tracing Paper](03-1-tracingpaper.md)
 
-* [バルカナイズドファイバー](03-2-pvf.md)
+* [バルカナイズドファイバー / Vulcanized Fiber](03-2-pvf.md)
 
-* [ボール紙(1)](03-3-board-w.md)
+* [ボール紙(1) / Paper Board (1)](03-3-board-w.md)
 
-* [ボール紙(2)](03-4-board-g.md)
+* [ボール紙(2) / Paper Board (2)](03-4-board-g.md)
 
-* [段ボール](03-5-cb.md)
+* [段ボール / Cardboard](03-5-cb.md)
 
-* [和紙（コウゾ）](03-6-washi.md)
+* [和紙（コウゾ）/ Washi (Japanese paper)](03-6-washi.md)
 
 <br>
 

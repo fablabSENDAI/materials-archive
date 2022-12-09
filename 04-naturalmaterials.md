@@ -5,14 +5,14 @@ nav_order: 5
 has_children: true
 ---
 
-### 加工例：天然素材
+### 加工例：天然素材 / Natural Materials
 <br>
 
-* [コルク](04-1-cork.md)
+* [コルク / Cork](04-1-cork.md)
 
-* [乾漆（漆,米糊,寒冷紗）](04-2-kanshitsu.md)
+* [乾漆（漆,米糊,寒冷紗）/ KANSHITSU Sheet](04-2-kanshitsu.md)
 
-* [牛革（タンニンなめし）](04-3-leather.md)
+* [牛革（タンニンなめし）/ Cow Leather](04-3-leather.md)
 
 <br>
 
