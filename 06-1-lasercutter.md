@@ -1,7 +1,7 @@
 ---
 layout: default
 title: レーザーカッター
-parent: デジタル工作マシンとは
+parent: 参考：デジタル工作マシンとは
 nav_order: 1
 ---
 
@@ -35,7 +35,7 @@ nav_order: 1
 
 <br>
 
-----------
+---
 
 <br>
 
@@ -60,14 +60,10 @@ FabLab SENDAI - FLAT レーザーカッター加工事例<br>
 * Inkscape（無料）： [https://inkscape.org/ja/](https://inkscape.org/ja/)
 * Method Draw（無料）： [http://editor.method.ac/](http://editor.method.ac/）)
 
-<br>
-
 **3Dデータ**
 
 * Rhinoceros （有料）： [http://www.rhino3d.co.jp/](http://www.rhino3d.co.jp/)  
 * Autodesk FUSION360（一部有料）： [http://www.autodesk.co.jp/products/fusion-360/overview](http://www.autodesk.co.jp/products/fusion-360/overview)
-
-<br>
 
 **コーディング**
 
