@@ -3,6 +3,7 @@ layout: default
 title: 参考：デジタル工作マシンとは
 nav_order: 7
 has_children: true
+has_toc: false
 ---
 
 ## 参考：デジタル工作マシンとは
@@ -12,5 +13,3 @@ has_children: true
 （デジタル工作機器、デジタルファブリケーションマシン等と呼ばれることもあります。）
 
 <br><br><br>
-
-{: .no_toc }
