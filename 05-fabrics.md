@@ -3,6 +3,7 @@ layout: default
 title: 布
 nav_order: 6
 has_children: true
+has_toc: false
 ---
 
 ## 加工例：布 / Fabrics
@@ -22,13 +23,7 @@ has_children: true
 
 * [不織布（PP）/ Non-woven Fabric](05-7-pp.md)
 
-<br>
-
-<h2 class="text-delta">Contents</h2>
-
 ---
-
-<br>
 
 掲載している素材の加工結果はあくまで参考例です。製造メーカーや保管方法、加工状況等により結果が異なる場合がありますのでご注意ください。<br>
 <br>
