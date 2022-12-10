@@ -19,6 +19,8 @@ nav_order: 1
 
 <span style="color: #B00E02">
 ただし、機械の特性上、以下のような素材は加工が禁止されています。<br>
+</span>
+
 * 塩化ビニル系素材（PVC）
 * クロムなめしされた本革、合成皮革
 * ポリビニルブチラール（PVB）
@@ -30,7 +32,6 @@ nav_order: 1
 * レーザー加工用ではないゴム
 * 鏡、鏡面仕上げされた金属
 * 臭素が入った「難燃性」の素材
-</span>
 
 <br>
 
@@ -39,29 +40,24 @@ nav_order: 1
 <br>
 
 ### **レーザーカッターでの加工事例**
-<br>
 
 FabLab SENDAI - FLAT レーザーカッター加工事例<br>
 [https://www.flickr.com/photos/flat-sendai/albums/72157649768153717](https://www.flickr.com/photos/flat-sendai/albums/72157649768153717)
 
-<br><br>
+<br>
 
 ### **加工に必要なデータ形式例**
-<br>
 
 .ai、.dxf、.pdf、.svg、.jpgなど<br>
 
-<br><br>
+<br>
 
 ### **データ作成に使用するソフトウェアの例**
-<br>
 
 **2Dデータ**
 
 * Adobe Illustrator（有料）： [http://www.adobe.com/jp/products/illustrator.html](http://www.adobe.com/jp/products/illustrator.html)
-
 * Inkscape（無料）： [https://inkscape.org/ja/](https://inkscape.org/ja/)
-
 * Method Draw（無料）： [http://editor.method.ac/](http://editor.method.ac/）)
 
 <br>
@@ -69,7 +65,6 @@ FabLab SENDAI - FLAT レーザーカッター加工事例<br>
 **3Dデータ**
 
 * Rhinoceros （有料）： [http://www.rhino3d.co.jp/](http://www.rhino3d.co.jp/)  
-
 * Autodesk FUSION360（一部有料）： [http://www.autodesk.co.jp/products/fusion-360/overview](http://www.autodesk.co.jp/products/fusion-360/overview)
 
 <br>
@@ -77,7 +72,6 @@ FabLab SENDAI - FLAT レーザーカッター加工事例<br>
 **コーディング**
 
 * JS outputs SVG： [http://fabacademy.org/archives/2014/students/oami.takuma/computer\_controlled\_cutting.html](http://fabacademy.org/archives/2014/students/oami.takuma/computer_controlled_cutting.html)
-
 * Processing： [https://processing.org/](https://processing.org/)
 
 <br>
