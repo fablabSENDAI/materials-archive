@@ -17,36 +17,27 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 <br>
 <br>
 
-<table>
-<tr style="border:none;">
-<td style="border:none;"><img src="assets/13_Silicone_1.png" width="320" alt="hi" class="inline"/></td>
-<td style="border:none;"><img src="assets/13_Silicone_2.png" width="320" alt="hi" class="inline"/></td>
-</tr>
-</table>
+<img src="assets/13_Silicone_1.png" width="320" alt="hi" class="inline"/><img src="assets/13_Silicone_2.png" width="320" alt="hi" class="inline"/>
 
-<br><br>
-
-
-### 加工時の注意事項 / Notice
 <br>
+
+
+### **加工時の注意事項 / Notice**
 
 **レーザーカッター / Laser Cutter**
-<br>
 * バリの発生や削りカスの付着を防ぐため、表面にマスキングテープを貼って加工すると良い。<br>
 （粉が非常に発生するため、加工中に発火しないよう注意。）<br>
-* 厚手のシートは切断加工できない（焦げたり燃えるだけで切り進まない）ので注意。<br><br>
+* 厚手のシートは切断加工できない（焦げたり燃えるだけで切り進まない）ので注意。<br>
 
 **UVプリンター / UV Printer**
-<br>
 * UV印刷したインクは定着せずに剥がれます。<br>
 
-<br><br>
-
-### サンプル情報 / Sample
 <br>
 
+### **サンプル情報 / Sample**
+
 **素材サイズ / Material Size**<br>
-横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)約2mm
+横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)約2mm<br>
 
 **加工マシン / Machines**<br>
 レーザーカッター / Laser Cutter：trotec speedy 100(60W)<br>
@@ -60,6 +51,6 @@ UVプリンター / UV Printer：Roland LEF-12<br>
 
 <br><br>
 
-<span style="color: #B2B2B2; ">
+<span style="color: #B2B2B2">
 （Last Updated: 2022.10.31）
 </span>

@@ -37,7 +37,7 @@ Materials Archiveは、FabLab SENDAI - FLATが作成した、デジタル工作�
 
 ### **助成**
 
-公益財団法人 [仙台市市民文化事業団](https://ssbj.jp/)<br>
+[公益財団法人 仙台市市民文化事業団](https://ssbj.jp/)<br>
 （2022年度 文化芸術の創造・発信・普及助成事業）<br>
 <br>
 

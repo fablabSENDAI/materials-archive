@@ -18,22 +18,15 @@ UVプリンターのインクはよく定着します。<br>
 <br>
 <br>
 
-<table>
-<tr style="border:none;">
-<td style="border:none;"><img src="assets/32_Tarpaulin_1.png" width="320" alt="hi" class="inline"/></td>
-<td style="border:none;"><img src="assets/32_Tarpaulin_2.png" width="320" alt="hi" class="inline"/></td>
-</tr>
-</table>
+<img src="assets/32_Tarpaulin_1.png" width="320" alt="hi" class="inline"/><img src="assets/32_Tarpaulin_2.png" width="320" alt="hi" class="inline"/>
 
-<br><br>
-
-
-### FabLab SENDAI - FLATでの加工事例 / Examples
 <br>
+
+### **FabLab SENDAI - FLATでの加工事例 / Examples**
 
 **レーザーカッター / Laser Cutter**
-<br>
-※加工時に有毒なガスが発生するため、レーザー加工は禁止。<br><br>
+<span style="color: #B00E02">
+※加工時に有毒なガスが発生するため、レーザー加工は禁止。</span><br>
 
 **UVプリンター / UV Printer**
 <br>
@@ -53,6 +46,6 @@ UVプリンター / UV Printer：Roland LEF-12<br>
 
 <br><br>
 
-<span style="color: #B2B2B2; ">
+<span style="color: #B2B2B2">
 （Last Updated: 2022.10.31）
 </span>

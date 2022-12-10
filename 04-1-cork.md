@@ -17,40 +17,29 @@ UVプリンターのインクは染み込んで定着します。<br>
 <br>
 <br>
 
-<table>
-<tr style="border:none;">
-<td style="border:none;"><img src="assets/24_Cork_1.png" width="320" alt="hi" class="inline"/></td>
-<td style="border:none;"><img src="assets/24_Cork_2.png" width="320" alt="hi" class="inline"/></td>
-</tr>
-</table>
+<img src="assets/24_Cork_1.png" width="320" alt="hi" class="inline"/><img src="assets/24_Cork_2.png" width="320" alt="hi" class="inline"/>
 
-<br><br>
-
-### FabLab SENDAI - FLATでの加工事例 / Examples
 <br>
 
-[**レーザーカッター加工事例 / Laser Cutter**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corklc)
+### **FabLab SENDAI - FLATでの加工事例 / Examples**
 
-[**UVプリンター加工事例 / UV Printer**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corkuv)
+* [**レーザーカッター加工事例 / Laser Cutter**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corklc)
+* [**UVプリンター加工事例 / UV Printer**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corkuv)
 
-<br><br>
-
-### 加工時の注意事項 / Notice
 <br>
+
+### **加工時の注意事項 / Notice**
 
 **レーザーカッター / Laser Cutter**
-<br>
 * 焦げやヤニの付着を防ぐため、表面にマスキングテープを貼って加工すると良い。<br>
-* 厚手のシートは切断加工できない（焦げたり燃えるだけで切り進まない）ので注意。<br><br>
+* 厚手のシートは切断加工できない（焦げたり燃えるだけで切り進まない）ので注意。<br>
 
 **UVプリンター / UV Printer**
-<br>
 * インクが染み込みやすいため、厚盛りしたい場合は、先にグロスインク等で下地を印刷しておくと良い。<br>
 
-<br><br>
-
-### サンプル情報 / Sample
 <br>
+
+### **サンプル情報 / Sample**
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)1.8mm<br>
@@ -66,6 +55,6 @@ UVプリンター / UV Printer：Roland LEF-12<br>
 
 <br><br>
 
-<span style="color: #B2B2B2; ">
+<span style="color: #B2B2B2">
 （Last Updated: 2022.10.31）
 </span>
