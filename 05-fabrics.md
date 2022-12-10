@@ -24,7 +24,9 @@ has_children: true
 
 <br>
 
-------
+<h2 class="text-delta">Contents</h2>
+
+---
 
 <br>
 
@@ -33,5 +35,3 @@ has_children: true
 尚、本ページに掲載された情報の利用によって生じた損害については、一切の保証・賠償は行いません。ご利用に当たっては、ご自身の責任で行っていただきますようお願いいたします。
 
 <br><br><br>
-
-{: .no_toc }
