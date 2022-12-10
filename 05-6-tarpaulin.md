@@ -25,21 +25,20 @@ UVプリンターのインクはよく定着します。<br>
 ### **FabLab SENDAI - FLATでの加工事例 / Examples**
 
 **レーザーカッター / Laser Cutter**
+
 <span style="color: #B00E02">
 ※加工時に有毒なガスが発生するため、レーザー加工は禁止。</span><br>
 
 **UVプリンター / UV Printer**
-<br>
 * 加工面に油分やゴミが付着しないよう、加工直前にアルコール等で拭くと良い。<br>
 * 印刷後、時間が経つにつれてインクが縮むため、素材が変形します。<br>
 
-<br><br>
-
-### サンプル情報 / Sample
 <br>
 
+### **サンプル情報 / Sample**
+
 **素材サイズ / Material Size**<br>
-横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)0.2mm
+横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)0.2mm<br>
 
 **加工マシン / Machines**<br>
 UVプリンター / UV Printer：Roland LEF-12<br>

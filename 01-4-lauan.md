@@ -22,7 +22,6 @@ UVプリンターのインクは染み込んで定着します。<br>
 <br>
 
 ### **FabLab SENDAI - FLATでの加工事例（木材全般） / Examples**
-<br>
 
 * [**レーザーカッター加工事例 / Laser Cutter**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=woodlc)
 * [**UVプリンター加工事例 / UV Printer**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=wooduv)
