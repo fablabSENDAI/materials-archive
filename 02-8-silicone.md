@@ -7,8 +7,7 @@ nav_order: 8
 
 <br>
 
-### シリコーンゴム / Silicone Rubber
-
+## シリコーンゴム / Silicone Rubber
 <br><br>
 
 耐熱性に優れ、弾力があり、非粘着性の高いシリコーン樹脂のゴム状素材です。<br>
@@ -28,7 +27,8 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 <br><br>
 
 
-#### 加工時の注意事項 / Notice
+### 加工時の注意事項 / Notice
+<br>
 
 **レーザーカッター / Laser Cutter**
 <br>
@@ -42,7 +42,8 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 
 <br><br>
 
-#### サンプル情報 / Sample
+### サンプル情報 / Sample
+<br>
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)約2mm

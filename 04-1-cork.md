@@ -7,8 +7,7 @@ nav_order: 1
 
 <br>
 
-### コルク / Cork
-
+## コルク / Cork
 <br><br>
 
 空気をよく含み、柔らかく弾力性があり、保温性に優れている素材です。<br>
@@ -27,7 +26,8 @@ UVプリンターのインクは染み込んで定着します。<br>
 
 <br><br>
 
-#### FabLab SENDAI - FLATでの加工事例 / Examples
+### FabLab SENDAI - FLATでの加工事例 / Examples
+<br>
 
 [**レーザーカッター加工事例 / Laser Cutter**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=corklc)
 
@@ -35,7 +35,8 @@ UVプリンターのインクは染み込んで定着します。<br>
 
 <br><br>
 
-#### 加工時の注意事項 / Notice
+### 加工時の注意事項 / Notice
+<br>
 
 **レーザーカッター / Laser Cutter**
 <br>
@@ -48,7 +49,8 @@ UVプリンターのインクは染み込んで定着します。<br>
 
 <br><br>
 
-#### サンプル情報 / Sample
+### サンプル情報 / Sample
+<br>
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)1.8mm<br>

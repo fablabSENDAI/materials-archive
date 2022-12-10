@@ -7,8 +7,7 @@ nav_order: 6
 
 <br>
 
-### ターポリン（塩化ビニル等）/ Tarpaulin
-
+## ターポリン（塩化ビニル等）/ Tarpaulin
 <br><br>
 
 合成繊維の織物の両面に塩化ビニル樹脂を積層した、丈夫で強い素材です。<br>
@@ -29,7 +28,8 @@ UVプリンターのインクはよく定着します。<br>
 <br><br>
 
 
-#### FabLab SENDAI - FLATでの加工事例 / Examples
+### FabLab SENDAI - FLATでの加工事例 / Examples
+<br>
 
 **レーザーカッター / Laser Cutter**
 <br>
@@ -42,7 +42,8 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
-#### サンプル情報 / Sample
+### サンプル情報 / Sample
+<br>
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)0.2mm

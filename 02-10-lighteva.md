@@ -7,8 +7,7 @@ nav_order: 10
 
 <br>
 
-### ライトエヴァ（EVA）シート / Light EVA Sheet
-
+## ライトエヴァ（EVA）シート / Light EVA Sheet
 <br><br>
 
 柔らかく弾力のある樹脂素材です。（規格・生産：ライト化成工業株式会社）<br>
@@ -29,7 +28,8 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 
 
 
-#### 加工時の注意事項 / Notice
+### 加工時の注意事項 / Notice
+<br>
 
 **レーザーカッター / Laser Cutter**
 <br>
@@ -42,7 +42,8 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 
 <br><br>
 
-#### サンプル情報 / Sample
+### サンプル情報 / Sample
+<br>
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)1mm<br>

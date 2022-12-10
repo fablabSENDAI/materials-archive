@@ -7,8 +7,7 @@ nav_order: 4
 
 <br>
 
-### ボール紙(2)（グレー面）/ Paper Board (2)
-
+## ボール紙(2)（グレー面）/ Paper Board (2)
 <br><br>
 
 紙箱の芯紙や製本の表紙などに使用される、丈夫な厚手の紙素材です。<br>
@@ -27,7 +26,8 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
-#### FabLab SENDAI - FLATでの加工事例（紙全般）/ Examples
+### FabLab SENDAI - FLATでの加工事例（紙全般）/ Examples
+<br>
 
 [**レーザーカッター加工事例 / Laser Cutter**](https://www.flickr.com/search/?user_id=96175517%40N02&sort=date-taken-desc&safe_search=1&view_all=1&tags=paperlc)
 
@@ -35,7 +35,8 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
-#### 加工時の注意事項 / Notice
+### 加工時の注意事項 / Notice
+<br>
 
 **レーザーカッター / Laser Cutter**
 <br>
@@ -49,7 +50,8 @@ UVプリンターのインクはよく定着します。<br>
 
 <br><br>
 
-#### サンプル情報 / Sample
+### サンプル情報 / Sample
+<br>
 
 **素材サイズ / Material Size**<br>
 横 (W)105mm × 縦 (H)148.5mm × 厚さ (D)0.5mm

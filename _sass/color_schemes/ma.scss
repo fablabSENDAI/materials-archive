@@ -1,34 +1,80 @@
 // Typography
 
-$body-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
-  roboto, "Helvetica Neue", arial, sans-serif !default;
+$body-font-family: -apple-system, YuGothic, "Yu Gothic Medium", "Yu Gothic", Verdana, Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro", sans-serif; // 元値 system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif
 $mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
+$root-font-size: 14px; // Base font-size for rems 元値16
+$body-line-height: 1.7; // 元値1.4
+$content-line-height: 1.7; // 元値1.6
+$body-heading-line-height: 1.25 !default;
+$body-font-feature-settings: "palt"; //新規追加
+$body-letter-spacing: 0.02em; //新規追加
+
+// Font size
+// `-sm` suffix is the size at the small (and above) media query
+
+$font-size-1: 9px !default;
+$font-size-1-sm: 10px !default;
+$font-size-2: 11px !default; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 12px !default; // h5
+$font-size-4: 14px !default;
+$font-size-5: 14px; // h3 小見出し
+$font-size-6: 16px; // h2 小ページ見出し
+$font-size-7: 24px !default;
+$font-size-8: 18px; // h1 大見出し、親ページ見出し
+$font-size-9: 36px !default;
+$font-size-10: 42px !default;
+$font-size-10-sm: 48px !default;
 
 // Colors
 
-$white: #fff !default;
-$grey-dk-000: #959396 !default;
-$grey-dk-100: #5c5962 !default;
+$white: #fff !default; //背景
+$black: #000; //新規追加
+$grey-dk-000: #959595; //元値#959396
+$grey-dk-100: #494949; //元値#5c5962 
+$grey-dk-200: #44434d !default;
+$grey-dk-250: #302d36 !default;
 $grey-dk-300: #27262b !default;
-$grey-lt-000: #f5f6fa !default;
-$green-100: #729800;
-$body-background-color: $white !default;
-$sidebar-color: $white !default;
+$grey-lt-000: #efefef; //元値f5f6fa
+$grey-lt-100: #B2B2B2 !default; //元値eeebee
+$grey-lt-200: #ecebed !default;
+$grey-lt-300: #e6e1e8 !default;
+$purple-000: #7253ed !default;
+$purple-100: #5e41d0 !default;
+$purple-200: #4e26af !default;
+$purple-300: #381885 !default;
+$blue-000: #2c84fa !default;
+$blue-100: #2869e6 !default;
+$blue-200: #264caf !default;
+$blue-300: #183385 !default;
+$green-000: #5E9B1E; //元値#65c435 
+$green-100: #11b584 !default;
+$green-200: #009c7b !default;
+$green-300: #026e57 !default;
+$yellow-000: #ffeb82 !default;
+$yellow-100: #fadf50 !default;
+$yellow-200: #f7d12e !default;
+$yellow-300: #e7af06 !default;
+$red-000: #f77e7e !default;
+$red-100: #f96e65 !default;
+$red-200: #e94c4c !default;
+$red-300: #dd2e2e !default;
+$body-background-color: $white !default; //背景
+$sidebar-color: $white; //サイドバー 元値$grey-lt-000
 $search-background-color: $white !default;
 $table-background-color: $white !default;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
-$body-text-color: $grey-dk-100 !default;
+$body-text-color: $grey-dk-300; //元値$grey-dk-100
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
-$link-color: $green-100;
-$btn-primary-color: $green-100;
+$link-color: $green-000; //元値$purple-000
+$btn-primary-color: $green-000; //元値$purple-000
 $base-button-color: #f7f7f7 !default;
 
 // Spacing
 
-$spacing-unit: 1rem; // 1rem == 16px
+$spacing-unit: 1rem; // 1rem == 14px
 
 $spacers: (
   sp-0: 0,

@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-### 加工例：紙 / Paper
+# 加工例：紙 / Paper
 <br>
 
 * [トレーシングペーパー / Tracing Paper](03-1-tracingpaper.md)
@@ -31,3 +31,5 @@ has_children: true
 尚、本ページに掲載された情報の利用によって生じた損害については、一切の保証・賠償は行いません。ご利用に当たっては、ご自身の責任で行っていただきますようお願いいたします。
 
 <br><br><br>
+
+{: .no_toc }
