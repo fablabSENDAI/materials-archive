@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# 加工例：布 / Fabrics
+## 加工例：布 / Fabrics
 <br>
 
 * [ナイロン（100%）布 / Nylon Fabric](05-1-nylon.md)

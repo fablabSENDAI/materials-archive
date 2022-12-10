@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# 加工例：木材 / Woods
+## 加工例：木材 / Woods
 <br>
 
 * [MDF（中密度繊維板）/ Medium-density fibreboard](01-1-mdf.md)

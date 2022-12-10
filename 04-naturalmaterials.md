@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# 加工例：天然素材 / Natural Materials
+## 加工例：天然素材 / Natural Materials
 <br>
 
 * [コルク / Cork](04-1-cork.md)

@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Materials Archiveとは
-<br>
+<br><br>
 
 
 Materials Archiveは、FabLab SENDAI - FLATが作成した、デジタル工作マシン(※1)による様々な素材の加工結果とその情報を集約したウェブページです。<br>

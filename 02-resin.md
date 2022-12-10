@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# 加工例：樹脂 / Resin
+## 加工例：樹脂 / Resin
 <br>
 
 * [ABS樹脂 / ABS](02-1-abs.md)

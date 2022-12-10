@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# 加工例：紙 / Paper
+## 加工例：紙 / Paper
 <br>
 
 * [トレーシングペーパー / Tracing Paper](03-1-tracingpaper.md)
