@@ -1,7 +1,7 @@
 ---
 layout: default
 title: アクリル
-parent: 樹脂
+parent: (2)樹脂
 nav_order: 4
 ---
 <br>

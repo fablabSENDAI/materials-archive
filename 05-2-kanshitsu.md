@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 乾漆
-parent: 天然素材
+parent: (4)天然素材
 nav_order: 2
 ---
 

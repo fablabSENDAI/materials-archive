@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ボール紙(2)
-parent: 紙
+parent: (3)紙
 nav_order: 4
 ---
 

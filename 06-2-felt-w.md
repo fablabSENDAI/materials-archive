@@ -1,7 +1,7 @@
 ---
 layout: default
 title: フェルト（ウール、レーヨン）
-parent: 布
+parent: (5)布
 nav_order: 2
 ---
 

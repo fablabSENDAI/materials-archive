@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ライトエヴァシート
-parent: 樹脂
+parent: (2)樹脂
 nav_order: 10
 ---
 

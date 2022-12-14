@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 竹
-parent: 木材
+parent: (1)木材
 nav_order: 5
 ---
 

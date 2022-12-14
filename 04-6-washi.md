@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 和紙（コウゾ）
-parent: 紙
+parent: (3)紙
 nav_order: 6
 ---
 <br>

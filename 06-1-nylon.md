@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ナイロン
-parent: 布
+parent: (5)布
 nav_order: 1
 ---
 

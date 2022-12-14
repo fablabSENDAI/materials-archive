@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ひのき
-parent: 木材
+parent: (1)木材
 nav_order: 3
 ---
 

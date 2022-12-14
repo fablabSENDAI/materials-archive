@@ -1,7 +1,7 @@
 ---
 layout: default
 title: スチレンペーパー
-parent: 樹脂
+parent: (2)樹脂
 nav_order: 6
 ---
 
