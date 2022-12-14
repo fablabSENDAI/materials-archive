@@ -1,25 +1,25 @@
 ---
 layout: default
-title: 紙
-nav_order: 4
+title: 木材
+nav_order: 3
 has_children: true
 has_toc: false
 ---
 
-## 加工例：紙 / Paper
+## 加工例：木材 / Woods
 <br>
 
-* [トレーシングペーパー / Tracing Paper](03-1-tracingpaper.md)
+* [MDF（中密度繊維板）/ Medium-density fibreboard](02-1-mdf.md)
 
-* [バルカナイズドファイバー / Vulcanized Fiber](03-2-pvf.md)
+* [シナ合板 / Basswood Plywood](02-2-shina.md)
 
-* [ボール紙(1) / Paper Board (1)](03-3-board-w.md)
+* [ひのき / Japanese Cypress](02-3-hinoki.md)
 
-* [ボール紙(2) / Paper Board (2)](03-4-board-g.md)
+* [ラワン合板 / Lauan Plywood](02-4-lauan.md)
 
-* [段ボール / Cardboard](03-5-cb.md)
+* [竹 / Bamboo](02-5-bamboo.md)
 
-* [和紙（コウゾ）/ Washi (Japanese paper)](03-6-washi.md)
+
 
 <br>
 

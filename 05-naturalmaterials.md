@@ -1,27 +1,19 @@
 ---
 layout: default
-title: 布
+title: 天然素材
 nav_order: 6
 has_children: true
 has_toc: false
 ---
 
-## 加工例：布 / Fabrics
+## 加工例：天然素材 / Natural Materials
 <br>
 
-* [ナイロン（100%）布 / Nylon Fabric](05-1-nylon.md)
+* [コルク / Cork](05-1-cork.md)
 
-* [フェルト（ウール60%, レーヨン40%）/ Felt (60%Wool, 40%Rayon)](05-2-felt-w.md)
+* [乾漆（漆,米糊,寒冷紗）/ KANSHITSU Sheet](05-2-kanshitsu.md)
 
-* [フェルト（ポリエステル100%）/ Felt (100%Polyester)](05-3-felt-p.md)
-
-* [ポリエステル（100%）布 / Polyester Fabric](05-4-polyester.md)
-
-* [綿（100%）布 / Cotton](05-5-cotton.md)
-
-* [ターポリン（塩化ビニル等）/ Tarpaulin](05-6-tarpaulin.md)
-
-* [不織布（PP）/ Non-woven Fabric](05-7-pp.md)
+* [牛革（タンニンなめし）/ Cow Leather](05-3-leather.md)
 
 <br>
 

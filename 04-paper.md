@@ -1,19 +1,25 @@
 ---
 layout: default
-title: 天然素材
+title: 紙
 nav_order: 5
 has_children: true
 has_toc: false
 ---
 
-## 加工例：天然素材 / Natural Materials
+## 加工例：紙 / Paper
 <br>
 
-* [コルク / Cork](04-1-cork.md)
+* [トレーシングペーパー / Tracing Paper](04-1-tracingpaper.md)
 
-* [乾漆（漆,米糊,寒冷紗）/ KANSHITSU Sheet](04-2-kanshitsu.md)
+* [バルカナイズドファイバー / Vulcanized Fiber](04-2-vf.md)
 
-* [牛革（タンニンなめし）/ Cow Leather](04-3-leather.md)
+* [ボール紙(1) / Paper Board (1)](04-3-board-w.md)
+
+* [ボール紙(2) / Paper Board (2)](04-4-board-g.md)
+
+* [段ボール / Cardboard](04-5-cb.md)
+
+* [和紙（コウゾ）/ Washi (Japanese paper)](04-6-washi.md)
 
 <br>
 
