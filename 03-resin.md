@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 樹脂
+title: (2)樹脂
 nav_order: 4
 has_children: true
 has_toc: false

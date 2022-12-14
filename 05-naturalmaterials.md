@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 天然素材
+title: (4)天然素材
 nav_order: 6
 has_children: true
 has_toc: false

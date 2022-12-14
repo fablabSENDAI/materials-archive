@@ -1,8 +1,7 @@
 ---
 layout: default
-title: デジタル工作マシンでの加工例
+title: 1.デジタル工作マシンでの加工例
 nav_order: 2
-has_children: true
 has_toc: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 木材
+title: (1)木材
 nav_order: 3
 has_children: true
 has_toc: false
