@@ -31,6 +31,10 @@ has_toc: false
 <a href="https://fablabsendai.github.io/materials-archive/02-5-bamboo.html" title="竹 / Bamboo">
 <img src="assets/img_s/05_Bamboo_1.png" width="180px">
 </a>
+<a href="https://fablabsendai.github.io/materials-archive/02-6-fukiurushi-mdf.html" title="拭き漆MDF / Fuki-urushi MDF">
+</a>
+<img src="assets/img_s/39_FukiurushiMDF_1.png" width="180px">
+</a>
 <a href="https://fablabsendai.github.io/materials-archive/03-1-abs.html" title="ABS樹脂 / ABS">
 <img src="assets/img_s/06_ABS_1.png" width="180px">
 </a>
@@ -67,6 +71,12 @@ has_toc: false
 <a href="https://fablabsendai.github.io/materials-archive/03-12-pvc.html" title="PVC（塩化ビニル樹脂）シート（硬質）/ Hard PVC Sheet">
 <img src="assets/img_s/17_PVC_1.png" width="180px">
 </a>
+<a href="https://fablabsendai.github.io/materials-archive/03-13-mirrored-acrylic.html" title="アクリルミラー板 / Mirrored Acrylic">
+<img src="assets/img_s/38_Mirror_1.png" width="180px">
+</a>
+<a href="https://fablabsendai.github.io/materials-archive/03-14-olefin.html" title="カッティングシート（オレフィン系） / Olefin Sheet">
+<img src="assets/img_s/37_Olefin_1.png" width="180px">
+</a>
 <a href="https://fablabsendai.github.io/materials-archive/04-1-tracingpaper.html" title="トレーシングペーパー / Tracing Paper">
 <img src="assets/img_s/18_Tracing_1.png" width="180px">
 </a>
@@ -84,6 +94,12 @@ has_toc: false
 </a>
 <a href="https://fablabsendai.github.io/materials-archive/04-6-washi.html" title="和紙（コウゾ）/ Washi (Japanese paper)">
 <img src="assets/img_s/23_Washi_1.png" width="180px">
+</a>
+<a href="https://fablabsendai.github.io/materials-archive/04-7-copy.html" title="コピー用紙 / Copy Paper">
+<img src="assets/img_s/34_Copy_1.png" width="180px">
+</a>
+<a href="https://fablabsendai.github.io/materials-archive/04-8-illustrationboard.html" title="イラストレーションボード / Illustration Board">
+<img src="assets/img_s/35_Illust_1.png" width="180px">
 </a>
 <a href="https://fablabsendai.github.io/materials-archive/05-1-cork.html" title="コルク / Cork">
 <img src="assets/img_s/24_Cork_1.png" width="180px">
@@ -115,7 +131,9 @@ has_toc: false
 <a href="https://fablabsendai.github.io/materials-archive/06-7-pp.html" title="不織布（PP）/ Non-woven Fabric">
 <img src="assets/img_s/33_PP_F_1.png" width="180px">
 </a>
-
+<a href="https://fablabsendai.github.io/materials-archive/06-8-knitcloth.html" title="マジッククロス（ポリエステル） / Magic Cloth">
+<img src="assets/img_s/36_knit_1.png" width="180px">
+</a>
 
 <br>
 

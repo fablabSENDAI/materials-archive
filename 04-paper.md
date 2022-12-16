@@ -21,6 +21,10 @@ has_toc: false
 
 * [和紙（コウゾ）/ Washi (Japanese paper)](04-6-washi.md)
 
+* [コピー用紙 / Copy Paper](04-7-copy.md)
+
+* [イラストレーションボード / Illustration Board](04-8-illustrationboard.md)
+
 <br>
 
 ---

@@ -19,6 +19,7 @@ has_toc: false
 
 * [竹 / Bamboo](02-5-bamboo.md)
 
+* [拭き漆MDF / Fuki-urushi MDF](02-6-fukiurushi-mdf.md)
 
 
 <br>

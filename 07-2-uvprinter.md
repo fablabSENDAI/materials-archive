@@ -37,7 +37,11 @@ UVプリンターは、UVインクを紫外線で硬化させることで、木�
 ### **UVプリンターでの加工事例**
 
 FabLab SENDAI - FLAT UVプリンター加工事例<br>
-[https://www.flickr.com/photos/flat-sendai/albums/72157679861997664](https://www.flickr.com/photos/flat-sendai/albums/72157679861997664)
+[https://www.flickr.com/photos/flat-sendai/albums/72157679861997664](https://www.flickr.com/photos/flat-sendai/albums/72157679861997664)<br>
+
+UVプリント時のTips<br>
+[https://scrapbox.io/UVprintclub/](https://scrapbox.io/UVprintclub/)
+
 
 <br>
 

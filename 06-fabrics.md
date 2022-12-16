@@ -23,6 +23,8 @@ has_toc: false
 
 * [不織布（PP）/ Non-woven Fabric](06-7-pp.md)
 
+* [マジッククロス（ポリエステル） / Magic Cloth](06-8-knitcloth.md)
+
 <br>
 
 ---
