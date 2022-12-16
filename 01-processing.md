@@ -32,7 +32,6 @@ has_toc: false
 <img src="assets/img_s/05_Bamboo_1.png" width="180px">
 </a>
 <a href="https://fablabsendai.github.io/materials-archive/02-6-fukiurushi-mdf.html" title="拭き漆MDF / Fuki-urushi MDF">
-</a>
 <img src="assets/img_s/39_FukiurushiMDF_1.png" width="180px">
 </a>
 <a href="https://fablabsendai.github.io/materials-archive/03-1-abs.html" title="ABS樹脂 / ABS">
