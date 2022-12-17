@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 2.様々な素材の加工例
-nav_order: 9
+title: 3.素材の作られ方、扱い方
+nav_order: 10
 has_children: true
 has_toc: false
 ---
 
-## 様々な素材の加工例
+## 素材の作られ方、扱い方
 <br><br>
 
 掲載している素材の加工結果はあくまで参考例です。製造メーカーや保管方法、加工状況等により結果が異なる場合がありますのでご注意ください。<br>
