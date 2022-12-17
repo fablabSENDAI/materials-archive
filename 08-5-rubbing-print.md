@@ -2,7 +2,7 @@
 layout: default
 title: (5)レーザーカットした板木による拓本染め
 parent: 2.様々な素材の加工技法
-nav_order: 4
+nav_order: 5
 ---
 
 <br>
