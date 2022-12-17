@@ -20,10 +20,9 @@ nav_order: 1
 <h3><strong> 0. 材料・道具 </strong></h3>
 
 ・染料 （ここでは<a href="https://osaka-kaseihin.co.jp/?page_id=274">樹脂用染料SDN</a>を使用）<br>
-・小鍋<br>
+・染色溶液を入れる小鍋<br>
 ・加熱用器具（カセットコンロなど）<br>
-スポイト（1ml単位で計量できるもの）<br>
-・計量カップ<br>
+・スポイトや計量カップ<br>
 ・温度計<br>
 ・素材洗浄用水（カップ等に用意する）<br>
 ・中性洗剤<br>
@@ -32,7 +31,7 @@ nav_order: 1
 </p>
 <br clear="all">
 
-<br>
+<br><br>
 
 <p><img src="assets/02/08-1/02.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
@@ -51,8 +50,7 @@ nav_order: 1
 
 <h3><strong>2. 染色溶液の加熱</strong></h3>
 
-染色する素材に合わせて、温度を調整しながら溶液を加熱する。<br>
-（アクリル、ナイロンなど、各樹脂の適正温度は、染色液の説明書等を確認する。）<br>
+染色する素材に合わせて、温度を調整しながら溶液を加熱する。（アクリル、ナイロンなど、各樹脂の適正温度は、染色液の説明書等を確認する。）<br>
 ダブルクリップを使って、温度計を鍋に固定すると良い。<br>
 
 </p>
@@ -96,8 +94,6 @@ nav_order: 1
 </p>
 <br clear="all">
 
-<br>
-
 <p><img src="assets/02/08-1/09.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 </p>
 <br clear="all">
@@ -113,8 +109,6 @@ nav_order: 1
 
 </p>
 <br clear="all">
-
-<br>
 
 <p><img src="assets/02/08-1/12.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 </p>
@@ -132,13 +126,9 @@ nav_order: 1
 </p>
 <br clear="all">
 
-<br>
-
 <p><img src="assets/02/08-1/16.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 </p>
 <br clear="all">
-
-<br>
 
 <p><img src="assets/02/08-1/17.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 </p>
@@ -166,7 +156,6 @@ nav_order: 1
 
 </p>
 <br clear="all">
-<br>
 
 <p><img src="assets/02/08-1/20.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 </p>
