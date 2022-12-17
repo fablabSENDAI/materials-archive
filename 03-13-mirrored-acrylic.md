@@ -15,8 +15,8 @@ nav_order: 13
 <br>
 <br>
 
-<img src="assets/38_Mirror_1.png" width="320" alt="hi" class="inline"/><img src="assets/38_Mirror_2.png" width="320" alt="hi" class="inline"/><br>
-<img src="assets/38_Mirror_3.png" width="640" alt="hi" class="inline"/><br>
+<img src="assets/01/38_Mirror_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/38_Mirror_2.png" width="320" alt="hi" class="inline"/><br>
+<img src="assets/01/38_Mirror_3.png" width="640" alt="hi" class="inline"/><br>
 
 <br>
 

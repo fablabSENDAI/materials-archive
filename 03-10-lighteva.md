@@ -17,7 +17,7 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 <br>
 <br>
 
-<img src="assets/15_Light_EVA_1.png" width="320" alt="hi" class="inline"/><img src="assets/15_Light_EVA_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/15_Light_EVA_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/15_Light_EVA_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

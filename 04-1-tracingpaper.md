@@ -17,7 +17,7 @@ UVプリンターのインクはよく定着しますが、インクの縮みに
 <br>
 <br>
 
-<img src="assets/18_Tracing_1.png" width="320" alt="hi" class="inline"/><img src="assets/18_Tracing_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/18_Tracing_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/18_Tracing_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

@@ -17,7 +17,7 @@ UVプリンターのインクは染み込んで定着します。<br>
 <br>
 <br>
 
-<img src="assets/35_Illust_1.png" width="320" alt="hi" class="inline"/><img src="assets/35_Illust_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/35_Illust_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/35_Illust_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

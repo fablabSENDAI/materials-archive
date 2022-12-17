@@ -17,7 +17,7 @@ UVプリンターのインクは定着しますが、ややかすれた印象に
 <br>
 <br>
 
-<img src="assets/36_knit_1.png" width="320" alt="hi" class="inline"/><img src="assets/36_knit_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/36_knit_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/36_knit_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

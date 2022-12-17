@@ -17,7 +17,7 @@ UVプリンターのインクはよく定着します。<br>
 <br>
 <br>
 
-<img src="assets/21_Board_G_1.png" width="320" alt="hi" class="inline"/><img src="assets/21_Board_G_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/21_Board_G_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/21_Board_G_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

@@ -16,7 +16,7 @@ UVプリンターのインクは染み込んで定着しますが、厚く盛る
 <br>
 <br>
 
-<img src="assets/34_Copy_1.png" width="320" alt="hi" class="inline"/><img src="assets/34_Copy_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/34_Copy_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/34_Copy_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 

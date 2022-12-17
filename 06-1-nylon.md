@@ -17,7 +17,7 @@ UVプリンターのインクはよく定着します。<br>
 <br>
 <br>
 
-<img src="assets/27_Nylon_1.png" width="320" alt="hi" class="inline"/><img src="assets/27_Nylon_2.png" width="320" alt="hi" class="inline"/><br>
+<img src="assets/01/27_Nylon_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/27_Nylon_2.png" width="320" alt="hi" class="inline"/><br>
 
 ### **FabLab SENDAI - FLATでの加工事例（布全般）/ Examples**
 

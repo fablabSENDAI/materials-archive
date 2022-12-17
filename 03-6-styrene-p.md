@@ -17,7 +17,7 @@ UVプリンターのインクは定着せずに剥がれます。<br>
 <br>
 <br>
 
-<img src="assets/11_Styrene_P_1.png" width="320" alt="hi" class="inline"/><img src="assets/11_Styrene_P_2.png" width="320" alt="hi" class="inline"/>
+<img src="assets/01/11_Styrene_P_1.png" width="320" alt="hi" class="inline"/><img src="assets/01/11_Styrene_P_2.png" width="320" alt="hi" class="inline"/>
 
 <br>
 
