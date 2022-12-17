@@ -15,7 +15,7 @@ nav_order: 1
 <br>
 <br>
 
-<p><img src="assets/02/08-1/01.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/01.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **0. 材料・道具**
 
@@ -34,7 +34,7 @@ nav_order: 1
 
 <br>
 
-<p><img src="assets/02/08-1/02.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/02.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **1. 染色溶液の用意**
 
@@ -47,7 +47,7 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/03.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/03.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **2. 染色溶液の加熱**
 
@@ -60,7 +60,7 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/04.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/04.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **3. 素材の染色**
 
@@ -72,7 +72,7 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/05.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/05.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **4. 素材の取り出し・洗浄**
 
@@ -87,7 +87,8 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/08.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><img src="assets/02/08-1/09.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/08.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<img src="assets/02/08-1/09.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **応用1. マスキングでの染め分け**
 
@@ -98,7 +99,8 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/11.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><img src="assets/02/08-1/12.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/11.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<img src="assets/02/08-1/12.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **応用2. グラデーション染め**
 
@@ -110,7 +112,9 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/15.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><img src="assets/02/08-1/16.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><img src="assets/02/08-1/17.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/15.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<img src="assets/02/08-1/16.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<img src="assets/02/08-1/17.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **応用3. 2色グラデーション+くもり仕上げ**
 
@@ -122,7 +126,7 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **応用4. 白色アクリルの染色**
 
@@ -133,7 +137,8 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/19.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><img src="assets/02/08-1/20.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+<p><img src="assets/02/08-1/19.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<img src="assets/02/08-1/20.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
 
 ### **応用5. 色付きアクリルの染色**
 
