@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (1)アクリル等樹脂の色付け（染色）
-parent: 2.様々な素材の加工例
+parent: 2.様々な素材の加工技法
 nav_order: 1
 ---
 
@@ -136,7 +136,7 @@ nav_order: 1
 
 <br><br>
 
-<p><img src="assets/02/08-1/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/><br>
+<p><img src="assets/02/08-1/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
 <h3><strong>応用4. 白色アクリルの染色</strong></h3>
 
