@@ -16,23 +16,21 @@ has_toc: false
 <br>
 <br>
 
+* [(1)アクリル等樹脂の色付け（染色）](08-1-dye-acrylic.md)
 
-<a href="https://fablabsendai.github.io/materials-archive/02-1-mdf.html" title="MDF（中密度繊維板）/ Medium-density fibreboard">
-<img src="assets/02/img_s/01_MDF_1.png" width="180px">
-</a>
-<a href="https://fablabsendai.github.io/materials-archive/02-2-shina.html" title="シナ合板 / Basswood Plywood">
-<img src="assets/02/img_s/02_Shina_1.png" width="180px">
-</a>
-<a href="https://fablabsendai.github.io/materials-archive/02-3-hinoki.html" title="ひのき / Japanese Cypress">
-<img src="assets/02/img_s/03_Hinoki_1.png" width="180px">
-</a>
-<a href="https://fablabsendai.github.io/materials-archive/02-4-lauan.html" title="ラワン合板 / Lauan Plywood">
-<img src="assets/02/img_s/04_Lauan_1.png" width="180px">
-</a>
-<a href="https://fablabsendai.github.io/materials-archive/02-5-bamboo.html" title="竹 / Bamboo">
-<img src="assets/02/img_s/05_Bamboo_1.png" width="180px">
-</a>
+* [(2)UVレジンによるアクリル板の接着](08-2-glue-acrylic.md)
 
+* [(3)簡易キットを使った紙づくり](08-3-paper-making.md)
+
+* [(4)和紙を使った糸づくり](08-4-paper-threadmaking.md)
+
+* [(5)レーザーカットした版木による和紙の拓本染め](08-5-rubbing-print.md)
+
+* [(6)MDFの拭き漆仕上げ](08-6-fukiurushi-mdf.md)
+
+* [(7)レザー（本革）の仕上げ技法](08-7-leather-finishing.md)
+
+* [マジッククロス（ポリエステル） / Magic Cloth](06-8-knitcloth.md)
 
 <br>
 
