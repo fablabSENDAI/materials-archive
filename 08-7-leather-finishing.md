@@ -30,7 +30,7 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br><br><br>
 
 <h3><strong>2. レーザーカット時のコバ（断面）の焦げ処理方法</strong></h3>
 
@@ -74,7 +74,7 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br><br><br>
 
 <h3><strong>3. コバ（断面）を滑らかにする方法</strong></h3>
 
@@ -111,7 +111,7 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br><br><br>
 
 <h3><strong>4. トコ（裏面）を滑らかにする方法</strong></h3>
 
@@ -172,8 +172,6 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 
 </p>
 <br clear="all">
-
-<br><br>
 
 <br><br><br>
 
