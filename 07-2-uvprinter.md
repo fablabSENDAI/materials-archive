@@ -56,7 +56,7 @@ UVプリント時のTips<br>
 
 * Adobe Illustrator（有料）：[http://www.adobe.com/jp/products/illustrator.html](http://www.adobe.com/jp/products/illustrator.html)
 * Inkscape（無料）：[https://inkscape.org/ja/](https://inkscape.org/ja/)
-* Method Draw（無料）：[http://editor.method.ac/](http://editor.method.ac/）)
+* Method Draw（無料）：[http://editor.method.ac/](http://editor.method.ac/)
 
 <br>
 
