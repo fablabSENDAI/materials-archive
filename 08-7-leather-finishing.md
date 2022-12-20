@@ -41,11 +41,11 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/05.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**焦げをしっかり落としたい場合** <br>
+<strong>焦げをしっかり落としたい場合</strong> <br>
 焦げを完全に落として本来のコバの色に戻したい場合は、400番〜1000番のやすりをかける。穴の中の焦げを落としたい場合は、ダイヤモンドやすり等棒状のやすりを使用する。<br>
 
 </p>
@@ -54,21 +54,21 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/07.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**柔らかいレザーをやする場合** <br>
+<strong>柔らかいレザーをやする場合</strong> <br>
 柔らかいレザーはそのままの状態ではなく、くるくる丸めるとやすりがけがしやすくなる<br>
 
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/08.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**重ねて接着したレザーにやすりがけをする場合** <br>
+<strong>重ねて接着したレザーにやすりがけをする場合</strong> <br>
 何枚か重ねて貼り合わせたレザーにやすりをかけると、それぞれのコバが馴染み、まるで1枚のレザーかのように見せることができる。<br>
 
 </p>
@@ -88,21 +88,21 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/11.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**天然素材で仕上げたい場合**<br>
+<strong>天然素材で仕上げたい場合</strong><br>
 『フノリ』という海藻でも、コバを滑らかにすることができる。少量の水で『フノリ』を煮込むと透明な糊状になり、それをトコノールと同じように布につけてこすることで、コバがとても滑らかになる。<br>
 
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/12.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**更に滑らかにしたい場合**<br>
+<strong>更に滑らかにしたい場合</strong><br>
 布ではなく『ヘチマ』を使うと、コバの仕上がりが更に滑らかになり、艶も増していく<br>
 
 </p>
@@ -122,17 +122,17 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/15.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**更に滑らかにしたい場合**<br>
+<strong>更に滑らかにしたい場合</strong><br>
 布やヘチマではなく、角が丸く加工されたガラス板で強く力をかけながらこすると、より滑らかに仕上がる。熱で２つ折りにしたアクリル板の、折り曲げ部分でも代用可能。<br>
 
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <h3><strong>5. コバ（断面）に色を付ける方法</strong></h3>
 
@@ -143,31 +143,31 @@ FabLab SENDAI – FLATの『Material Finishing Workshop』というワークシ�
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/17.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**それぞれの剤の仕上がりの違い**<br>
+<strong>それぞれの剤の仕上がりの違い</strong><br>
 写真上が『コバコート』（水性着色仕上剤）、下が『ローパスバチック』（皮革染料）を使用したもの。『コバコート』は素材の上にインクが乗るようなツヤのある仕上がりに、『ローパスバチック』は素材にインクが染み込んだようなマットな仕上がりになる。<br>
 
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**『コバコート』の塗布方法**<br>
+<strong>『コバコート』の塗布方法</strong><br>
 『コバコート』は液体のりのように先端にスポンジが付いているため、キャップを外したらそのままコバに着色剤を塗ることができる。<br>
 
 </p>
 <br clear="all">
 
-<br><br>
+<br>
 
 <p><img src="assets/02/08-7/19.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**『ローパスバチック』の塗布方法**<br>
+<strong>『ローパスバチック』の塗布方法</strong><br>
 『ローパスバチック』の中身を小皿に分け、クリップを持ち手代わりにした硬めのスポンジで塗っていく。油性ペンなどでも代用可能。<br>
 
 </p>
