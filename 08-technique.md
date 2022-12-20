@@ -16,6 +16,8 @@ has_toc: false
 <br>
 <br>
 
+**(1)制作・加工技法**
+
 * [アクリル等樹脂の色付け（染色）](09-1-dye-acrylic.md)
 
 * [UVレジンによるアクリル板の接着](09-2-glue-acrylic.md)
@@ -28,9 +30,13 @@ has_toc: false
 
 * [MDFの拭き漆仕上げ](09-6-fukiurushi-mdf.md)
 
+<br>
+
+**(2)仕上げ技法**
+
 * [レザー（本革）の仕上げ技法](10-1-leather-finishing.md)
 
-* [マジッククロス（ポリエステル） / Magic Cloth](10-2-knitcloth.md)
+* [木材の仕上げ技法](10-2-wood-finishing.md)
 
 <br>
 
