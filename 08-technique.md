@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.様々な素材の加工技法
+title: 3.様々な素材の加工技法
 nav_order: 9
 has_children: false
 has_toc: false
@@ -37,6 +37,10 @@ has_toc: false
 * [レザー（本革）の仕上げ技法](10-1-leather-finishing.md)
 
 * [木材の仕上げ技法](10-2-wood-finishing.md)
+
+* [PLAの仕上げ技法（モデリングペースト）](10-3-pla-finishing1.md)
+
+* [PLAの仕上げ技法（アルテコ モデリングコート）](10-4-pla-finishing2.md)
 
 <br>
 

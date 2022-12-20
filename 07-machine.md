@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 参考：デジタル工作マシンとは
-nav_order: 8
+nav_order: 12
 has_children: true
 has_toc: false
 ---
