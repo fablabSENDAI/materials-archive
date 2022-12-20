@@ -2,7 +2,7 @@
 layout: default
 title: 2.様々な材料での3Dプリント例
 nav_order: 8
-has_children: false
+has_children: true
 has_toc: false
 ---
 
