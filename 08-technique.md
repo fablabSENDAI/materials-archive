@@ -2,7 +2,7 @@
 layout: default
 title: 2.様々な素材の加工技法
 nav_order: 9
-has_children: true
+has_children: false
 has_toc: false
 ---
 
@@ -16,21 +16,21 @@ has_toc: false
 <br>
 <br>
 
-* [(1)アクリル等樹脂の色付け（染色）](08-1-dye-acrylic.md)
+* [アクリル等樹脂の色付け（染色）](09-1-dye-acrylic.md)
 
-* [(2)UVレジンによるアクリル板の接着](08-2-glue-acrylic.md)
+* [UVレジンによるアクリル板の接着](09-2-glue-acrylic.md)
 
-* [(3)簡易キットを使った紙づくり](08-3-paper-making.md)
+* [簡易キットを使った紙づくり](09-3-paper-making.md)
 
-* [(4)和紙を使った糸づくり](08-4-paper-threadmaking.md)
+* [和紙を使った糸づくり](09-4-paper-threadmaking.md)
 
-* [(5)レーザーカットした版木による和紙の拓本染め](08-5-rubbing-print.md)
+* [レーザーカットした版木による和紙の拓本染め](09-5-rubbing-print.md)
 
-* [(6)MDFの拭き漆仕上げ](08-6-fukiurushi-mdf.md)
+* [MDFの拭き漆仕上げ](09-6-fukiurushi-mdf.md)
 
-* [(7)レザー（本革）の仕上げ技法](08-7-leather-finishing.md)
+* [レザー（本革）の仕上げ技法](10-1-leather-finishing.md)
 
-* [マジッククロス（ポリエステル） / Magic Cloth](06-8-knitcloth.md)
+* [マジッククロス（ポリエステル） / Magic Cloth](10-2-knitcloth.md)
 
 <br>
 
