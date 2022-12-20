@@ -10,147 +10,170 @@ nav_order: 7
 ## (7)レザー（本革）の仕上げ技法
 <br><br>
 
-[MDF](02-1-mdf.md)という木質ボードに、拭き漆（ふきうるし）という技法を施すと、普通のMDFとは一味違う印象の素材になります。（拭き漆とは、木地に透けた漆を塗っては布で拭き取るという作業を繰り返す技法で、木目が生かされた仕上がりとなるのが特徴です。）<br>
+FabLab SENDAI – FLATの『Material Finishing Workshop』というワークショッププログラムでは、レーザーカッターや3Dプリンタを使って作られた造形物の“仕上げ方法”を学びます。プログラム第1回では、 神奈川県鎌倉を中心に世界で幅広く活動をしていらっしゃるKULUSKAのお二人をお招きし、レザークラフトの仕上げ技法についてレクチャーをしていただきました。<br>
+（協力：[KULUSKA](http://kuluska-japan.com/)）
 
 ---
 
 <br>
 <br>
 
-<h3><strong> 0. 材料・道具 </strong></h3>
+<h3><strong>1. 硬めのレザーを柔らかくする方法</strong></h3>
 
-<img src="assets/02/08-6/01.jpg" width="860" alt="hi" class="inline"/><br>
+<p><img src="assets/02/08-7/02.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-* 生漆（200gで、300 x 600mmのMDFを10枚程度塗ることが可能）
-* MDF
-* ケーク紙（漆塗り用）
-* テレピン油（漆の希釈や、ガラス板、ヘラの洗浄に使用）
-* なたね油（刷毛洗浄や、肌に漆がついたときの拭き取りに使用）
-* ウエスもしくはキッチンペーパー（ガラス板の掃除用）
-* ゴム手袋もしくはビニール手袋
-* やすり（#400）
-* ガラス板（※ガラス製の製の器やボウル等でも代用可）
-* 板材（ガラス板と同じサイズで厚さ10mm程度のもの。ガラス板を使用しない場合は不要）
-* プラスチック製ヘラ（※ガラス製の器等で漆を混ぜる場合はプラスチックスプーンでも代用可）
-* 養生シート（テーブルや椅子を養生できるもの）
-* 保管ケース（ダンボールや収納ケースで可）
-* 新聞紙（保管ケース内の湿度を保つために使用）
-* ぞうきん（保管ケース内に水を塗布するのに使用）
-* 割り箸（拭き漆仕上げをした木材などをケースで硬化させる際に使用）
+レザーを端から丸め、手のひらを使って台に押し当て、再度開く。それを繰り返すことで、レザーに徐々に柔らかさがでてくる。<br>
 
----
-
-**事前準備**<br>
-* ケーク紙を幅15cm程度にカットする。
-* 拭き漆MDFを入れておくための段ボールや収納ケース等に、新聞紙を敷いて、雑巾などを使って全体を湿らせておく。
-* 上記ケース内に割り箸等、拭き漆MDFを置いておくための支えをセットする。
-* 作業を行なうテーブルに養生シートやビニールなどを敷き、エプロンと手袋を装着する。（かぶれが心配な場合は、ハンドクリームやオイルなどを手に塗っておく。）
-
----
-
-<br>
-
-<h3><strong>1. MDFのやすりがけ</strong></h3>
-
-ゴム手袋をし、#400のやすりでMDFの表面に細かい傷をつけていく。（MDFは、表面が糊でコーティングされたようになっているので、そのままだとあまり漆が染み込まない。そのため、その糊を剥がすためにやすりがけを行う必要がある。）<br>
-やすりがけが終わったら、MDFの表面に付いた粉塵を手のひらや布等で拭き取る。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F6EhHFjScXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br clear="all">
+<p><img src="assets/02/08-7/03.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+</p>
+<br clear="all">
 
 <br><br>
 
-<h3><strong>2. 漆とテレピン油の混合(1)</strong></h3>
+<h3><strong>2. レーザーカット時のコバ（断面）の焦げ処理方法</strong></h3>
 
-生漆：テレピン油＝3:1程度で混ぜ合わせる。生漆は、チューブのキャップを開けるとすぐに出てくるので、飛散しないように注意すること。<br>
+<p><img src="assets/02/08-7/04.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sYcWJec2qwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>3. 生漆とテレピン油の混合(2)</strong></h3>
-
-ヘラを使って、生漆とテレピン油を混ぜ合わせる。空気を含ませるようにかき混ぜるのではなく、2つの液を馴染ませるように摺り合わせながら混合する。<br>
-このとき、ヘラを大きく動かすと漆が飛んで服などに付着する可能性があるため、慎重に作業を進めること。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AvhqG4MKypM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>4. ケーク紙の準備</strong></h3>
-
-漆を塗るのに使用するケーク紙は、およそ30 x 40mm程度になるように折り曲げて使用する。材料に当たる面に、ケーク氏の折り目や端がこないようにすると尚良い。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AVLLlDqVLb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>5. 漆の摺り込み</strong></h3>
-
-ケーク紙に漆を付け、MDFに摺り込んでいく。表面だけではなく、端面にもしっかり染み込ませる。<br>
-はじめのうちは漆の吸い込みが早いため、全体的にツヤが出るまで何度も重ね塗りする。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xVNB9ZcGp08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>6. 漆の拭き取り</strong></h3>
-
-MDFの表面に漆が残るようになってきたら、綺麗なケーク紙で拭き取る。<br>
-片手でケーク紙をはさんでMDFを持ち、もう片方の手でケーク紙を使ってMDF表面の漆を拭き取る。ゴム手袋で直接MDFをつかんでしまうと、仕上がったときに色ムラが発生するため、必ずケーク紙を使って持つこと。<br>
-拭き取りが完了したら、水で湿らせておいた収納ケース等にMDFを入れておきます。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJ7dORDQYzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>7. 作業板の掃除</strong></h3>
-
-作業が終了したら、作業板全体にテレピン油をかけ、付着した漆を拭き取る。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GSj78lr1kn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br>
-
-<h3><strong>8. ケーク紙の処理</strong></h3>
-
-テレピン油と漆が反応して熱が発生する可能性があるため、拭き漆MDF制作に使用したケーク紙は丸めて捨てるのではなく、1日程度広げて軽く硬化させてから処分する。<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CjR0mSPAmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<br><br>
-
-<h3><strong>8. 硬化の確認</strong></h3>
-
-<p><img src="assets/02/08-6/02.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
-
-拭き漆MDFは、2,3日である程度まで硬化するが、素手で触れての硬化の確認は、拭き漆作業から1週間程度時間をとってから行う。<br>
-右図のように、小指の背面で、MDFの表面を軽く撫でて硬化の状況を確認する。
+初めに、焦げをウェットティッシュで拭く。その際に、水分が銀面（表面）やトコ（裏面）に付着した場合は、最後にその面も全てウェットティッシュで拭くと良い。<br>
 
 </p>
 <br clear="all">
 
-**★全体的にサラッとした感触＆表面にわずかなザラつきを感じる場合** <br>
-うまく硬化が進んでいる。2,3日に1回程度、収納ケース内に雑巾等で水分を与えながら更に硬化を進める。<br>
+<br><br>
 
-**★しっとりとした感覚が少しでもある場合**<br>
-硬化の進みがやや遅い。1日に1回程度、収納ケース内に雑巾等で水分を与え、気温も保てるよう調整し、2,3日後に再び上記方法で硬化の状況を確認する。<br>
+<p><img src="assets/02/08-7/05.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**焦げをしっかり落としたい場合** <br>
+焦げを完全に落として本来のコバの色に戻したい場合は、400番〜1000番のやすりをかける。穴の中の焦げを落としたい場合は、ダイヤモンドやすり等棒状のやすりを使用する。<br>
+
+</p>
+<br clear="all">
+<p><img src="assets/02/08-7/06.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+</p>
+<br clear="all">
 
 <br><br>
 
-<h3><strong>9. 硬化後のやすりがけ</strong></h3>
+<p><img src="assets/02/08-7/07.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-* 3週間程度経ったら素材として使用して問題ない。（しっとりした感覚がある場合は、使用せずに引き続き硬化させること。）<br>
-* 漆を塗っただけのMDFは、表面を手で触ったときに少しザラつきがあるため、#800以上のやすりで撫でるようにキメを整える。（力を入れると漆ごと剥がれる可能性があるため、触れるか触れないかくらいの優しい力で行う。）<br>
-* より艶を出したい場合は、テレピン油は使用せずに再度同じ手順で拭き漆作業を行う。重ね塗りする場合は、1回目と2回目の間は2,3日程度空いていれば問題ない。最終硬化のみ3週間程度時間を使う。<br>
+**柔らかいレザーをやする場合** <br>
+柔らかいレザーはそのままの状態ではなく、くるくる丸めるとやすりがけがしやすくなる<br>
+
+</p>
+<br clear="all">
+
 <br><br>
 
----
+<p><img src="assets/02/08-7/08.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
 
-**漆が肌に付着した場合**<br>
-作業中にビニール手袋が破れているなどして漆が直接地肌に付着した場合は、キッチンペーパーなどに油（なたね油など）を染み込ませたもので拭き取る。漆の成分は落ちても、特に爪や皮膚のシワなどに色素や顔料が残ってしまう場合もあるが、油でも落ちなくなってきたらハンドソープなどで手を洗い、よく保湿すること。<br>
+**重ねて接着したレザーにやすりがけをする場合** <br>
+何枚か重ねて貼り合わせたレザーにやすりをかけると、それぞれのコバが馴染み、まるで1枚のレザーかのように見せることができる。<br>
 
-<img src="assets/02/08-6/03.jpg" width="430" alt="hi" class="inline"/><img src="assets/02/08-6/04.jpg" width="430" alt="hi" class="inline"/>
+</p>
+<br clear="all">
+
+<br><br>
+
+<h3><strong>3. コバ（断面）を滑らかにする方法</strong></h3>
+
+<p><img src="assets/02/08-7/09.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+市販されている『トコノール』等の仕上げ剤を布に適量付けてこすると、コバの毛羽立ちがおさまり、滑らかな仕上がりになる。<br>
+
+</p>
+<br clear="all">
+<p><img src="assets/02/08-7/10.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/11.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**天然素材で仕上げたい場合**<br>
+『フノリ』という海藻でも、コバを滑らかにすることができる。少量の水で『フノリ』を煮込むと透明な糊状になり、それをトコノールと同じように布につけてこすることで、コバがとても滑らかになる。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/12.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**更に滑らかにしたい場合**<br>
+布ではなく『ヘチマ』を使うと、コバの仕上がりが更に滑らかになり、艶も増していく<br>
+
+</p>
+<br clear="all">
+<p><img src="assets/02/08-7/13.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+</p>
+<br clear="all">
+
+<br><br>
+
+<h3><strong>4. トコ（裏面）を滑らかにする方法</strong></h3>
+
+<p><img src="assets/02/08-7/14.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+コバ処理同様、市販されている『トコノール』等の仕上げ剤、『フノリ』から作った糊をたっぷりとトコ面に塗り、布やヘチマでこすると滑らかになる。このとき、レザーを保湿する気持ちで、仕上げ剤や糊をたっぷり塗ることが綺麗に仕上がる秘訣。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/15.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**更に滑らかにしたい場合**<br>
+布やヘチマではなく、角が丸く加工されたガラス板で強く力をかけながらこすると、より滑らかに仕上がる。熱で２つ折りにしたアクリル板の、折り曲げ部分でも代用可能。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<h3><strong>5. コバ（断面）に色を付ける方法</strong></h3>
+
+<p><img src="assets/02/08-7/16.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+今回は、『コバコート』（水性着色仕上剤）や『ローパスバチック』（皮革染料）を使用する。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/17.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**それぞれの剤の仕上がりの違い**<br>
+写真上が『コバコート』（水性着色仕上剤）、下が『ローパスバチック』（皮革染料）を使用したもの。『コバコート』は素材の上にインクが乗るようなツヤのある仕上がりに、『ローパスバチック』は素材にインクが染み込んだようなマットな仕上がりになる。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/18.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**『コバコート』の塗布方法**<br>
+『コバコート』は液体のりのように先端にスポンジが付いているため、キャップを外したらそのままコバに着色剤を塗ることができる。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
+
+<p><img src="assets/02/08-7/19.jpg" alt="hi" class="inline" width="320" align="right" style="margin:0px 0px 0px 20px"/>
+
+**『ローパスバチック』の塗布方法**<br>
+『ローパスバチック』の中身を小皿に分け、クリップを持ち手代わりにした硬めのスポンジで塗っていく。油性ペンなどでも代用可能。<br>
+
+</p>
+<br clear="all">
+
+<br><br>
 
 <br><br><br>
 
