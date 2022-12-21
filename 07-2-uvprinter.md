@@ -9,6 +9,10 @@ nav_order: 2
 
 ## UVプリンターとは
 <br>
+<br>
+
+<img src="assets/machine/uvprinter.jpg" width="860" alt="hi" class="inline"/>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okewfOadhAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

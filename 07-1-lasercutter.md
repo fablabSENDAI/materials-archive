@@ -9,6 +9,10 @@ nav_order: 1
 
 ## レーザーカッターとは
 <br>
+<br>
+
+<img src="assets/machine/lasercutter.jpg" width="860" alt="hi" class="inline"/>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T29s0H0vzzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
