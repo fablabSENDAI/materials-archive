@@ -43,6 +43,7 @@ FabLab SENDAI - FLATでは、様々な素材の製法に関する調査や技術
 <br>
 
 **金属**
+* <a href="https://fablabsendai-flat.com/2016/07/29/report_caapws_vol02/" target="_blank" rel="noopener noreferrer">MDFの型でつくる錫(すず)の箸置きワークショップ（2016）</a>
 * <a href="https://fablabsendai-flat.com/2014/12/22/metalfab/" target="_blank" rel="noopener noreferrer">金属加工勉強会「メタルファブ vol.1」（2014）</a>
 * <a href="https://fablabsendai-flat.com/2015/03/15/metalfab2/" target="_blank" rel="noopener noreferrer">金属加工勉強会「メタルファブ vol.2 in OSAKA」（2014）</a>
 <br>
