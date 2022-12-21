@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4.様々な素材の製法に関するリサーチ
-nav_order: 13
+nav_order: 12
 has_children: false
 has_toc: false
 ---
