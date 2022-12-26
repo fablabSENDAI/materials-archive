@@ -13,6 +13,10 @@ has_toc: false
 
 * [木材の仕上げ技法](10-2-wood-finishing.md)
 
+* [PLAの仕上げ技法（モデリングペースト）](10-3-pla-finishing1.md)
+
+* [PLAの仕上げ技法（アルテコ モデリングコート）](10-4-pla-finishing2.md)
+
 
 <br>
 
