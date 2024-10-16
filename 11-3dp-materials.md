@@ -14,7 +14,7 @@ has_toc: false
 <br>
 <br>
 
-<a href="https://fablabsendai.github.io/materials-archive/11-01.html" title="(1) PLA">
+<a href="https://fablabsendai.github.io/materials-archive/11-01.html" title="(1) PLA透明フィラメント">
 <img src="assets/03/img_s/10.jpg" width="180px">
 </a>
 <a href="https://fablabsendai.github.io/materials-archive/11-02.html" title="(2) 銅フィラメント">
@@ -68,7 +68,15 @@ has_toc: false
 <a href="https://fablabsendai.github.io/materials-archive/11-18.html" title="(18) フレキシブル3Dプリンティング・フィラメント">
 <img src="assets/03/img_s/24.jpg" width="180px">
 </a>
-
+<a href="https://fablabsendai.github.io/materials-archive/11-19.html" title="(19) ビール原料フィラメント">
+<img src="assets/03/img_s/25.jpg" width="180px">
+</a>
+<a href="https://fablabsendai.github.io/materials-archive/11-20.html" title="(20) 黒檀フィラメント">
+<img src="assets/03/img_s/26.jpg" width="180px">
+</a>
+<a href="https://fablabsendai.github.io/materials-archive/11-21.html" title="(21) PLA白色フィラメント">
+<img src="assets/03/img_s/27.jpg" width="180px">
+</a>
 
 
 <br>
@@ -82,5 +90,5 @@ has_toc: false
 <br><br>
 
 <span style="color:#B2B2B2">
-（Last Updated: 2022.10.31）
+（Last Updated: 2024.09.28）
 </span>
